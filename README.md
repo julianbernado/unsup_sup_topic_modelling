@@ -1,2 +1,2 @@
-# unsup_sup_topic_modelling
+# Unsupervised and Supervised Topic Modelling
 Unsupervised and supervised workflows for topic modelling.
